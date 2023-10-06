@@ -1,6 +1,9 @@
+<h1 align="left">Olá, sou Everton Bruno! 👋</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=evertonbrunosds&color=yellow" alt="Profile views" /> </p>
+
 ##
 
-## Histórico
+## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/evertonbrunosds">
@@ -10,15 +13,15 @@
     
 ##
 
-## Tecnologias e Ferramentas
+## 🛠 &nbsp;Tech Stack
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ##
 
